@@ -23,4 +23,4 @@ Short Map widget can config user behavior from embedding side, improve scroll, s
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/short-map-1b25e832d6ee80238ce0eadfaebdd542
+https://maianhcorporation.notion.site/short-map-1b25e832d6ee80238ce0eadfaebdd542
